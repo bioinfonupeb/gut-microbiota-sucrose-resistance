@@ -1,0 +1,17 @@
+experiment_name: 'gut-microbiota-sucrose-resistance-HSD-NCxHSD-NR-trim'
+base_dir: '/mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistance-nutri'
+manifest_file: '/mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistance-nutri/data/raw/manifest/manifest-gut-microbiota-sucrose-resistance-HSD-NCxHSD-NR.csv'
+metadata_file: '/mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistance-nutri/data/raw/metadata/metadata-gut-microbiota-sucrose-resistance-HSD-NCxHSD-NR.tsv'
+class_col: 'group-id'
+classifier_file: '/mnt/nupeb/rede-micro/datasets/16S_classifiers_qiime2/silva138.1_AB_V3-V4_classifier.qza'
+top_n: 20
+replace_files: False
+phred: 20
+trunc_f: 0
+trunc_r: 0
+overlap: 12
+threads: 6
+trim:
+  overlap: 8
+  forward_primer: 'CCTACGGGRSGCAGCAG'
+  reverse_primer: 'GGACTACHVGGGTWTCTAAT'
