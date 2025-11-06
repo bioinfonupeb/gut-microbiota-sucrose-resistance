@@ -1,5 +1,5 @@
 <h1 align="center">Metagenomics analysis and processing pipeline</h1>
-<p align="center"><strong>"PROGRAMAÇÃO METABÓLICA INDUZIDA PELA SUPERLACTAÇÃO E SEUS EFEITOS NA ATIVAÇÃO DO INFLAMASSOMA NLRP3 E EXPRESSÃO DO MIR-155 EM MODELO EXPERIMENTAL DE RESISTÊNCIA À INSULINA".</strong>
+<p align="center"><strong>"Metabolic programmimg for resilience  small litter size preserves gut microbiota diversity and SCFA output despite high-sucrose diet".</strong>
 <br/>
   
 <h2>Contributors</h2>
