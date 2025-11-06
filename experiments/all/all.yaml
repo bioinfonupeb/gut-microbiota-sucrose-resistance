@@ -1,7 +1,7 @@
-experiment_name: 'ana-flavia-all'
-base_dir: '/mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri'
-manifest_file: '/mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/manifest-all-ana.csv'
-metadata_file: '/mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/metadata-all-ana.tsv'
+experiment_name: 'gut-microbiota-sucrose-resistanceall'
+base_dir: '/mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistancenutri'
+manifest_file: '/mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistancenutri/data/raw/manifest-all-ana.csv'
+metadata_file: '/mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistancenutri/data/raw/metadata-all-ana.tsv'
 class_col: 'group-id'
 classifier_file: '/mnt/nupeb/rede-micro/models/silva-138-99-nb-classifier.qza'
 top_n: 20

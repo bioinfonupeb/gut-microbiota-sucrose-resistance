@@ -1,9 +1,9 @@
-base_dir: /mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri
+base_dir: /mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistancenutri
 class_col: group-id
 classifier_file: /mnt/nupeb/rede-micro/datasets/16S_classifiers_qiime2/silva-138-99-nb-classifier.qza
-experiment_name: ana-flavia-STD-NCxHSD-NC-trim
-manifest_file: /mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/manifest/manifest-ana-flavia-STD-NCxHSD-NC.csv
-metadata_file: /mnt/nupeb/rede-micro/redemicro-ana-flavia-nutri/data/raw/metadata/metadata-ana-flavia-STD-NCxHSD-NC.tsv
+experiment_name: gut-microbiota-sucrose-resistanceSTD-NCxHSD-NC-trim
+manifest_file: /mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistancenutri/data/raw/manifest/manifest-gut-microbiota-sucrose-resistanceSTD-NCxHSD-NC.csv
+metadata_file: /mnt/nupeb/rede-micro/redemicro-gut-microbiota-sucrose-resistancenutri/data/raw/metadata/metadata-gut-microbiota-sucrose-resistanceSTD-NCxHSD-NC.tsv
 overlap: 12
 replace_files: false
 threads: 6
