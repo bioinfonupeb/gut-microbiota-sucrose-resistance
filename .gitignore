@@ -135,3 +135,17 @@ models/
 *.qza
 *.fastq
 *.fasta
+
+experiments/NCxHSD-NC-trim/
+experiments/NCxNR-trim/
+experiments/NCxSTD-NC-trim/
+experiments/NRxHSD-NR-trim/
+experiments/NRxSTD-NR-trim/
+experiments/NCxHSD-NC/
+experiments/NCxNR/
+experiments/NCxSTD-NC/
+experiments/NRxHSD-NR/
+experiments/NRxSTD-NR/
+experiments/all/
+experiments/bkp/
+
